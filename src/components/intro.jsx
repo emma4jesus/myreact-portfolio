@@ -34,7 +34,7 @@ class Intro extends React.Component {
               <p className="pt-3">
                 <a
                   className="btn btn-light btn js-scroll px-4"
-                  href="https://github.com/emma4jesus/react-portfolio/blob/main/public/docs/EMMANUELA%20JEAN-BAPTISTE.docx?raw=true"
+                  href="https://github.com/emma4jesus/react-portfolio/blob/gh-pages/docs/EMMANUELA%20JEAN-BAPTISTE.docx?raw=true"
                   role="button"
                 >
                   Download My Resume
