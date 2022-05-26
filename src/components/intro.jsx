@@ -22,7 +22,7 @@ class Intro extends React.Component {
                     strings={[
                       "Front End Developer",
                       "Back End Developer",
-                      "Full Stack Developer"
+                      "Full Stack Developer",
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
@@ -34,14 +34,13 @@ class Intro extends React.Component {
               <p className="pt-3">
                 <a
                   className="btn btn-light btn js-scroll px-4"
-                  href="https://github.com/emma4jesus/react-portfolio/blob/main/docs/EMMANUELA%20JEAN-BAPTISTE.docx?raw=true"
+                  href="https://github.com/emma4jesus/react-portfolio/blob/gh-pages/public/docs/EMMANUELA%20JEAN-BAPTISTE.docx"
                   role="button"
                 >
                   Download My Resume
                 </a>
               </p>
             </div>
-
           </div>
         </div>
       </div>
