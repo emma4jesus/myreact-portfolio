@@ -7,7 +7,7 @@
 
 
 
-### Link to website: https://emma4jesus.github.io/myportfolio/
+### Link to website: https://emma4jesus.github.io/react-portfolio/
 
 ## Installation
 
